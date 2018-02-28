@@ -20,4 +20,4 @@ Q. What do you want to make using Arduino?
 
 1. Discuss the above questions in groups
 2. With your group members, prepare a 5-min presentation to introduce Arduino to someone without technical backgrounds (friends, kids, or your Mom!).
-3. Submit *PPT and script* to the e-learning system.
+3. Submit *PPT and script* to the e-learning system before next class.
