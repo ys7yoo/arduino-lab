@@ -9,5 +9,5 @@ Q. What do you want to make using Arduino?
 
 ## Exercise
 ```
-Prepare a 5-min presentation to introduce Arduino to your mother
+Prepare a 5-min presentation to introduce Arduino to kids.
 ```
