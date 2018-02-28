@@ -1,5 +1,8 @@
 ## Materials 
 
+Watch [Massimo Banzi's TED talk](https://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination).
+
+
 ## Pre-lab Questions
 ```
 Q. What is Arduino? 
