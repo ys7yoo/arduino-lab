@@ -1,6 +1,6 @@
 ## Materials 
 
-*Before coming to the lab session*, watch [Massimo Banzi's TED talk with title ""How Arduino is open-sourcing imagination"](https://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination).
+*Before coming to the lab session*, watch [Massimo Banzi's TED talk with title ""How Arduino is open-sourcing imagination."](https://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination)
 
 [![TED](TED-Banzi.png)](https://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination).
 
