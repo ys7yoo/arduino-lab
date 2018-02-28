@@ -1,4 +1,4 @@
-Arduino lab for Smart Systems 2018 Spring
+Arduino lab for Smart Systems (2018 Spring)
 
 ## Modules
 
