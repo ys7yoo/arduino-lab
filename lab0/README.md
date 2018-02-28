@@ -8,7 +8,7 @@
 
 ## Pre-lab Questions
 
-Write a pre-lab report by answering the following questions. Submit it before the beginning of the class.
+Write a pre-lab report by answering the following questions. Submit it BEFORE the beginning of the class.
 
 ```
 Q. What is Arduino? 
