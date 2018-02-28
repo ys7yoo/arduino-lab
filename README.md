@@ -1,7 +1,6 @@
-Repository of Arduino lab for Smart Systems 2018 Spring
+Arduino lab for Smart Systems 2018 Spring
 
-## Plan 
+## Modules
 
 * Lab 0 (Mar. 9) - Intro to Arduino
-
 
