@@ -12,4 +12,4 @@ Arduino lab for Smart Systems (2018 Spring)
 
 ## References 
 * [Guideline for writing a lab report](http://www.writing.utoronto.ca/advice/specific-types-of-writing/lab-report)
-* [Source code of Exploring Arduino by Jeremy Blum](https://github.com/sciguy14/Exploring-Arduino)
+* [Source code for Exploring Arduino by Jeremy Blum](https://github.com/sciguy14/Exploring-Arduino)
