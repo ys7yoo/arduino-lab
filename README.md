@@ -11,3 +11,4 @@ Arduino lab for Smart Systems (2018 Spring)
 * Lab 6 (Apr. 20)
 
 ## References 
+* [Guideline for writing a lab report](http://www.writing.utoronto.ca/advice/specific-types-of-writing/lab-report)
