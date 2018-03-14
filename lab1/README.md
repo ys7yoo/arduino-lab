@@ -10,7 +10,7 @@ Write a pre-lab report by answering the following questions. Submit it BEFORE th
 ```
 Q. How to install Arduino IDE?
 Q. What is "port?" How many ports does Arduino Uno have?
-Q. How to blink the LED?
+Q. How to blink the LED? Explain how to send signals to the port using an example code.
 ```
 
 ## Exercise
