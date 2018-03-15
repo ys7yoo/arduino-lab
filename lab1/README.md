@@ -19,3 +19,7 @@ Q. How to blink the LED? Explain how to send signals to the port using an exampl
 
 Follow the tutorial and write a report using [the template](http://www.writing.utoronto.ca/advice/specific-types-of-writing/lab-report)
 
+## Reference
+
+The code for blinking LED is [here](https://github.com/sciguy14/Exploring-Arduino/blob/master/Chapter%2001/Blink/Blink.ino).
+
