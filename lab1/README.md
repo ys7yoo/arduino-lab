@@ -2,6 +2,8 @@
 
 *Before coming to the lab session*, watch [this tutorial](https://www.youtube.com/watch?v=fCxzA9_kg6s).
 
+[![Lab 1](lab1.png)](https://www.youtube.com/watch?v=fCxzA9_kg6s).
+
 
 ## Pre-lab Questions
 
