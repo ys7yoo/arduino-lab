@@ -10,9 +10,9 @@
 Write a pre-lab report by answering the following questions. Submit it BEFORE the beginning of the class.
 
 ```
-Q. Draw a circuit to read Button's state.
-Q. Explain the circuit you designed.
+Q. Draw a circuit to read Button's state. Explain the circuit you designed.
 Q. Why do you need the "debounce" function?
+Q. What is PWM?
 ```
 
 ## Exercise
