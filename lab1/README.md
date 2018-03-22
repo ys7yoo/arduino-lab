@@ -1,4 +1,4 @@
-## Getting Acquainted with Arduino
+## Getting acquainted with Arduino
 
 *Before coming to the lab session*, watch [this tutorial](https://www.youtube.com/watch?v=fCxzA9_kg6s).
 
