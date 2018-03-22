@@ -24,5 +24,5 @@ The codes for the tutorial can be found [here](https://www.jeremyblum.com/2011/0
 Also uploaded here: 
 * [switch1](switch1.pde)
 * [switch2](switch2.pde)
-* [switch3](switch3.pde)
-* [switch4](switch4.pde)
+* [switch3](switch3.pde) with debounce
+* [switch4](switch4.pde) analog output with PWM
