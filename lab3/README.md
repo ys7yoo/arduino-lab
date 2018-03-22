@@ -1,4 +1,4 @@
-## Buttons, PWM, and Functions
+## EE Basics
 
 *Before coming to the lab session*, watch [this tutorial](https://www.youtube.com/watch?v=abWCy_aOSwY).
 
