@@ -19,5 +19,4 @@ Q. What is PWM?
 Follow the tutorial and write a report using [the template](http://www.writing.utoronto.ca/advice/specific-types-of-writing/lab-report)
 
 ## Reference
-
-The codes for the tutorial can be found [here](https://github.com/sciguy14/Exploring-Arduino/tree/master/Chapter%2002).
+The codes for the tutorial can be found [here](https://www.jeremyblum.com/2011/01/10/arduino-tutorial-2-now-with-more-blinky-things/) and [here](https://github.com/sciguy14/Exploring-Arduino/tree/master/Chapter%2002).
