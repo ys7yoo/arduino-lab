@@ -20,3 +20,9 @@ Follow the tutorial and write a report using [the template](http://www.writing.u
 
 ## Reference
 The codes for the tutorial can be found [here](https://www.jeremyblum.com/2011/01/10/arduino-tutorial-2-now-with-more-blinky-things/) and [here](https://github.com/sciguy14/Exploring-Arduino/tree/master/Chapter%2002).
+
+Also uploaded here: 
+* [switch1](switch1.pde)
+* [switch2](switch2.pde)
+* [switch3](switch3.pde)
+* [switch4](switch4.pde)
