@@ -11,12 +11,10 @@ Write a pre-lab report by answering the following questions. Submit it BEFORE th
 
 ```
 Q1. What happens if you hook up an LED from 5V to GND. What should you do to fix the problem?
-Q2. What is the problem with the following circuit? How can you fix it?
+Q2. What is the voltage devider? When do you use it?
+Q3. What is the problem with the following circuit? How can you fix it?
 ```
 ![Button](button.png)
-```
-Q3. 
-```
 
 ## Exercise
 Follow the tutorial and write a report using [the template](http://www.writing.utoronto.ca/advice/specific-types-of-writing/lab-report)
