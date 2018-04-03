@@ -10,10 +10,12 @@
 Write a pre-lab report by answering the following questions. Submit it BEFORE the beginning of the class.
 
 ```
-Q. What happens if you hook up an LED from 5V to GND. What should you do to fix the problem?
-Q. What is the problem with the following circuit? How can you fix it?
+Q1. What happens if you hook up an LED from 5V to GND. What should you do to fix the problem?
+Q2. What is the problem with the following circuit? How can you fix it?
+```
 ![Button](button.png)
-Q. 
+```
+Q3. 
 ```
 
 ## Exercise
