@@ -2,7 +2,7 @@
 
 *Before coming to the lab session*, watch [this tutorial](https://www.youtube.com/watch?v=abWCy_aOSwY).
 
-[![Lab 2](lab2.png)](https://www.youtube.com/watch?v=_LCCGFSMOr4).
+[![Lab 3](lab3.png)](https://www.youtube.com/watch?v=abWCy_aOSwY).
 
 
 ## Pre-lab Questions
@@ -10,8 +10,9 @@
 Write a pre-lab report by answering the following questions. Submit it BEFORE the beginning of the class.
 
 ```
-Q. 
-Q. 
+Q. What happens if you hook up an LED from 5V to GND. What should you do to fix the problem?
+Q. What is the problem with the following circuit? How can you fix it?
+![Button](button.png)
 Q. 
 ```
 
