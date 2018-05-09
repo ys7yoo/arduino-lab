@@ -11,8 +11,8 @@ Write a pre-lab report by answering the following questions. Submit it BEFORE th
 
 ```
 Q1. Explain how to measure ambient light using photoresister using the schematic below.
-Q2. 
-Q3. 
+Q2. Explain how to contorl an LED depending on the ambient light condition.
+Q3. Choose a sensor of your choice and explain how you will use it in the lab.
 ```
 ![photoresistor](photoresistor.png)
 
