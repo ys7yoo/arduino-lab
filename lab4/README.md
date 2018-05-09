@@ -23,4 +23,7 @@ Follow the tutorial and write a report using [the template](http://www.writing.u
 The codes for the tutorial can be found [here](https://www.jeremyblum.com/2011/01/24/arduino-tutorial-4-analog-inputs//).
 
 Also uploaded here: 
-* [photoresistor](photoresistor.sch)
+* [control_led](control_led.pde)
+* [detect_threshold](detect_threshold.pde)
+* [motion_and_light_sense](motion_and_light_sense.pde)
+* [read_sensor](read_sensor.pde)
