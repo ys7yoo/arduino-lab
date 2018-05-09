@@ -2,7 +2,7 @@
 
 *Before coming to the lab session*, watch [this tutorial](https://www.youtube.com/watch?v=js4TK0U848I).
 
-[![Lab 4](lab4.png)](https://www.youtube.com/watch?v=js4TK0U848I).
+[![Lab 4](analog.png)](https://www.youtube.com/watch?v=js4TK0U848I).
 
 
 ## Pre-lab Questions
