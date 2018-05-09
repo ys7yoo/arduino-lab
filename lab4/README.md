@@ -14,7 +14,7 @@ Q1.
 Q2. 
 Q3. 
 ```
-![Button](button.png)
+![photoresistor](photoresistor.png)
 
 ## Exercise
 Follow the tutorial and write a report using [the template](http://www.writing.utoronto.ca/advice/specific-types-of-writing/lab-report)
