@@ -6,9 +6,7 @@ Arduino lab for Smart Systems (2018 Spring)
 * Lab 1 [Getting acquainted with Arduino](lab1/README.md) (Mar. 16)
 * Lab 2 [Buttons, PWM, and Functions](lab2/README.md) (Mar. 23)
 * Lab 3 [EE Basics](lab3/README.md) (Mar. 30)
-* Lab 4 (Apr. 6)
-* Lab 5 (Apr. 13)
-* Lab 6 (Apr. 20)
+* Lab 4 [Analog Inputs](lab4/README.md) (May 11)
 
 ## References 
 * [Guideline for writing a lab report](http://www.writing.utoronto.ca/advice/specific-types-of-writing/lab-report)
