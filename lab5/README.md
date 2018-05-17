@@ -1,6 +1,6 @@
 ## Motors and Transistors
 *Before coming to the lab session*, watch [this tutorial](https://youtu.be/5bHPKU4ybHY).
-[![Lab 5](NPN.png)](https://youtu.be/5bHPKU4ybHY)
+[![Lab 5](NPN.png)](https://youtu.be/5bHPKU4ybHY).
 
 
 ## Pre-lab Questions
