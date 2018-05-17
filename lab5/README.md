@@ -7,8 +7,9 @@
 
 Write a pre-lab report by answering the following questions. Submit it BEFORE the beginning of the class.
 ```
-Q1. Why do we use transistor to control a motor (instead of directly control it)
+Q1. Why do we use transistor to control a motor (instead of directly control it)?
 
+Q2. Explain the difference between DC and servo moters.
 ```
 
 
