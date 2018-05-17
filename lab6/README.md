@@ -17,10 +17,12 @@ Follow the tutorial and write a report using [the template](http://www.writing.u
 The codes for the tutorial can be found [here](https://www.jeremyblum.com/2011/02/07/arduino-tutorial-6-serial-communication-and-processing/).
 
 Source codes are also uploaded here: 
-* [process_input.pde](process_input.pde)
-* [read_pot_and_send.pde](read_pot_and_send.pde)
-* [keyboard_control.pde](keyboard_control.pde)
 * [keyboard_control_fail.pde](keyboard_control_fail.pde)
+* [keyboard_control.pde](keyboard_control.pde)
+* [read_pot_and_send.pde](read_pot_and_send.pde)
+* [process_input.pde](process_input.pde)
+
+
 
 
 
