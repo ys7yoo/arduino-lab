@@ -16,7 +16,7 @@ Q. Why did they make Arduino and its platform?
 Q. What do you want to make using Arduino?
 ```
 
-## Exercise
+## Exercise (In-class activity)
 
 1. Discuss the above questions in groups
 2. With your group members, prepare a 10-min presentation to introduce Arduino to someone without technical backgrounds (friends, kids, or your Mom!).
